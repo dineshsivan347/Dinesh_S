@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Dinesh+S+%F0%9F%91%8B;Full-Stack+Web+Developer+%7C+Python+Dev;Data+Analytics+%7C+Power+BI+Enthusiast;Building+Real-World+Apps+%F0%9F%9A%80)](https://readme-typing-svg.demolab.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=aswath_tamilan&color=70A5FD&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Dinesh_S&color=70A5FD&style=flat-square&label=Profile+Views)
 [![Portfolio](https://img.shields.io/badge/Portfolio-dineshs.vercel.app-70A5FD?style=flat-square&logo=vercel&logoColor=white)](https://dineshs.vercel.app)
 [![Email](https://img.shields.io/badge/Email-ceitdinesh27%40gmail.com-BB9AF7?style=flat-square&logo=gmail&logoColor=white)](mailto:ceitdinesh27@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Tirupur%2C%20Tamil%20Nadu-7DCFFF?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Tirupur,Tamil+Nadu)
@@ -80,8 +80,8 @@ print(me.motto())
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aswath_tamilan&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=70A5FD&title_color=70A5FD&icon_color=BB9AF7&text_color=c0caf5&hide_border=false&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswath_tamilan&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=70A5FD&title_color=70A5FD&text_color=c0caf5&hide_border=false&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dinesh_S&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=70A5FD&title_color=70A5FD&icon_color=BB9AF7&text_color=c0caf5&hide_border=false&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh_S&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=70A5FD&title_color=70A5FD&text_color=c0caf5&hide_border=false&langs_count=8" />
 
 </div>
 
@@ -91,7 +91,7 @@ print(me.motto())
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=aswath_tamilan&theme=tokyonight&background=0d1117&border=70A5FD&ring=BB9AF7&fire=FF9E64&currStreakLabel=70A5FD&sideLabels=c0caf5&dates=565f89)](https://streak-stats.demolab.com)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dinesh_S&theme=tokyonight&background=0d1117&border=70A5FD&ring=BB9AF7&fire=FF9E64&currStreakLabel=70A5FD&sideLabels=c0caf5&dates=565f89)](https://streak-stats.demolab.com)
 
 </div>
 
@@ -101,7 +101,7 @@ print(me.motto())
 
 <div align="center">
 
-[![Dinesh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aswath_tamilan&theme=tokyo-night&bg_color=0d1117&color=70A5FD&line=BB9AF7&point=FF9E64&area=true&hide_border=false)](https://github-readme-activity-graph.vercel.app)
+[![Dinesh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dinesh_S&theme=tokyo-night&bg_color=0d1117&color=70A5FD&line=BB9AF7&point=FF9E64&area=true&hide_border=false)](https://github-readme-activity-graph.vercel.app)
 
 </div>
 
@@ -111,7 +111,7 @@ print(me.motto())
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=aswath_tamilan&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8)](https://github-profile-trophy.vercel.app)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Dinesh_S&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8)](https://github-profile-trophy.vercel.app)
 
 </div>
 
