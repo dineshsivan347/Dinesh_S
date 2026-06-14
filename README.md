@@ -76,45 +76,6 @@ print(me.motto())
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dinesh_S&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=70A5FD&title_color=70A5FD&icon_color=BB9AF7&text_color=c0caf5&hide_border=false&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh_S&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=70A5FD&title_color=70A5FD&text_color=c0caf5&hide_border=false&langs_count=8" />
-
-</div>
-
----
-
-## 🔥 Streak Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Dinesh_S&theme=tokyonight&background=0d1117&border=70A5FD&ring=BB9AF7&fire=FF9E64&currStreakLabel=70A5FD&sideLabels=c0caf5&dates=565f89)](https://streak-stats.demolab.com)
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Dinesh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dinesh_S&theme=tokyo-night&bg_color=0d1117&color=70A5FD&line=BB9AF7&point=FF9E64&area=true&hide_border=false)](https://github-readme-activity-graph.vercel.app)
-
-</div>
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Dinesh_S&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8)](https://github-profile-trophy.vercel.app)
-
-</div>
-
 ---
 
 ## 💼 Work Experience
